@@ -5,6 +5,7 @@
 /**
  * Main - Prints a random number and states whether
  * it is positive or negative, or zero.
+ * 
  * Return: Always 0.
  */
 
